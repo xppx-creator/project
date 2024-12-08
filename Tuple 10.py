@@ -3,6 +3,7 @@ class Cat:
     age = None
     isHappy = None
     np = 4
+    px = [1, 2, 2]
 
     def set_data(self, name, age, isHappy):
         self.name = name
